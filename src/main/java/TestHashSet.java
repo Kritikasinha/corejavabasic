@@ -1,6 +1,4 @@
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.HashSet;
 import java.util.Iterator;
 
